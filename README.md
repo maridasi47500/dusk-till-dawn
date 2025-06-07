@@ -3,3 +3,4 @@ routine pour l'assistant
 - routine assistant google
 - 
 - social media aller a concert
+- allumer une lampe
